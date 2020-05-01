@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'SuisseIntl';
+  src: url('SuisseIntl-RegularItalic-WebS.woff2') format('woff2'),
+       url('SuisseIntl-RegularItalic-WebS.woff') format('woff');
+  font-weight:  400;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'SuisseIntl';
+  src: url('SuisseIntl-Regular-WebS.woff2') format('woff2'),
+       url('SuisseIntl-Regular-WebS.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'SuisseIntl';
+  src: url('SuisseIntl-SemiBoldItalic-WebS.woff2') format('woff2'),
+       url('SuisseIntl-SemiBoldItalic-WebS.woff') format('woff');
+  font-weight:  500;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'SuisseIntl';
+  src: url('SuisseIntl-SemiBold-WebS.woff2') format('woff2'),
+       url('SuisseIntl-SemiBold-WebS.woff') format('woff');
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+}
